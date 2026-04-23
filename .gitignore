@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+cache/
+output/
+*.log
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+
+# Copyrighted reference content — see data/README.md to obtain locally
+data/*.pdf
